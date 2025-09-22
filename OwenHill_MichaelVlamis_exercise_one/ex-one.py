@@ -121,7 +121,7 @@ response_feed_data = results_feed['data']
 
 #Accsess elements of iaqi
 #structure
-# Dict[ Pol, [v, data of polutatnt]]
+# Dict[ Pol: [v: [data of polutatnt]]
 # different types of polutants
 # keys for Pol: 'co', 'h', 'no2', 'o3', 'p', 'pm25', 'so2', 't', 'w', 'wg'
 # Code:
