@@ -1,0 +1,21 @@
+<!-- will be a child of base-->
+{% extends "base.html" %}
+
+{% block scriptBlock%}
+<script src = "{{url_for('static',filename='js/personal.js')}}"></script>
+{% endblock scriptBlock%}
+
+{% block content %}
+
+     <h3>** PET GARDEN  **</h3>
+    <section, >
+        <!-- stuff goes in here -->
+        <p id="instructions"> Below is all pet colours</p><br><br>
+
+        <p id="pets"></p>
+    </section>
+    <!--displaying the status message from the fetch request in the python code. This data will be inserted in the javascript file-->
+    <h3 id = "statusMessage"> </h4>
+
+
+{% endblock %}
