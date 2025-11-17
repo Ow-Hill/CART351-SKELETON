@@ -1,0 +1,26 @@
+<!-- will be a child of base-->
+{% extends "base.html" %}
+
+{% block scriptBlock%}
+
+<script src="{{url_for('static',filename='js/p5_lib/p5.min.js')}}"></script>
+<script src="{{url_for('static',filename='js/p5_lib/p5.sound.min.js')}}"></script>
+<script src = "{{url_for('static',filename='js/TriFrac.js')}}"></script>
+<script src =  "{{url_for('static',filename='js/sketchArchive.js')}}"></script>
+{% endblock scriptBlock%}
+
+{% block content %}
+
+     <h3 class = "infoText"> Archive</h3>
+    <section>
+        <!-- stuff goes in here -->
+        <p> this will show triangles made and who made them</p>
+    </section>
+    <section id = "p5Container">
+        <p class = "infoText">Traiangle: </p>
+
+   </section>
+{% endblock %}
+
+
+

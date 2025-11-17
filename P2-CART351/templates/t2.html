@@ -1,0 +1,44 @@
+<!--STEP 2.2-->
+<!-- will be a child of base-->
+{% extends "base.html" %}
+
+{% block scriptBlock%}
+<!--STEP 2.3-->
+<script src="{{url_for('static',filename='js/p5_lib/p5.min.js')}}"></script>
+<script src="{{url_for('static',filename='js/p5_lib/p5.sound.min.js')}}"></script>
+<script src = "{{url_for('static',filename='js/TriFrac.js')}}"></script>
+<script src = "{{url_for('static',filename='js/sketch.js')}}"></script>
+{% endblock scriptBlock%}
+
+{% block content %}
+
+     <h3 id="title">Serpinski Triangle Creator</h3>
+
+    <section class = "infoBox">
+        
+        <p class="infoText" > Select Colour Display mode </p>
+        <div class = "displayTypeContainer">
+            <div class = "displayType", id = "displayType1"> Normal </div>
+            <div class = "displayType" id = "displayType2"> Static </div>
+            <!-- <div class = "displayType" id = "displayType3"> Interactive</div> -->
+        </div>
+
+        <p class="infoText", id="t2Display">Press Q when your done making your triangle</p>
+        <!-- stuff goes in here -->
+        <!-- <p id="instructions"> Move your mouse around the square! When you generate your favourite colour, just click the mouse!</p><br><br>
+
+        <div id="player"> </div> -->
+    </section>
+    
+    <div id="p5Container">
+        
+
+    </div>
+    <div id="sendDataContainer">
+
+    </div>
+    <!--displaying the status message from the fetch request in the python code. This data will be inserted in the javascript file-->
+    <!-- <h3 id = "statusMessage"> </h3> -->
+
+
+{% endblock %}

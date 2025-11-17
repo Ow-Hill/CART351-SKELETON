@@ -1,0 +1,2617 @@
+[
+    {
+        "name": "Owen's Triangle",
+        "displayType": "static",
+        "triDict": {
+            "subTriA": {
+                "subTriA": {
+                    "subTriA": {
+                        "subTriA": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#7620c6ff"
+                            },
+                            "subTriB": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#7620c6ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#7620c6ff"
+                            },
+                            "col": "#86a40bff"
+                        },
+                        "subTriB": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#86a40bff"
+                        },
+                        "subTriC": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#86a40bff"
+                        },
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriB": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriC": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "col": "#ff0bf7ff"
+                },
+                "subTriB": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#ff0bf7ff"
+                },
+                "subTriC": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#ff0bf7ff"
+                },
+                "col": "#107065ff"
+            },
+            "subTriB": {
+                "subTriA": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#ebad10ff"
+                },
+                "subTriB": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#7620c6ff"
+                    },
+                    "subTriB": {
+                        "subTriA": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#86a40bff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#de3000ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#7620c6ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#de3000ff"
+                            },
+                            "col": "#86a40bff"
+                        },
+                        "subTriC": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#86a40bff"
+                        },
+                        "col": "#7620c6ff"
+                    },
+                    "subTriC": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#7620c6ff"
+                    },
+                    "col": "#ebad10ff"
+                },
+                "subTriC": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#ebad10ff"
+                },
+                "col": "#107065ff"
+            },
+            "subTriC": {
+                "subTriA": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#7620c6ff"
+                },
+                "subTriB": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#7620c6ff"
+                },
+                "subTriC": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#86a40bff"
+                    },
+                    "subTriB": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#86a40bff"
+                    },
+                    "subTriC": {
+                        "subTriA": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#ff0bf7ff"
+                        },
+                        "subTriB": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#ff0bf7ff"
+                        },
+                        "subTriC": {
+                            "subTriA": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#ebad10ff"
+                            },
+                            "subTriB": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#ebad10ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "col": "#ff0bf7ff"
+                        },
+                        "col": "#86a40bff"
+                    },
+                    "col": "#7620c6ff"
+                },
+                "col": "#107065ff"
+            },
+            "col": "#f2a624ff"
+        }
+    },
+    {
+        "name": "silly guy",
+        "displayType": "",
+        "triDict": {
+            "subTriA": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "subTriB": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "subTriC": {
+                "subTriA": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#86a40bff"
+                },
+                "subTriB": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#de3000ff"
+                    },
+                    "subTriB": {
+                        "subTriA": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#7620c6ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#7620c6ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "subTriC": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#de3000ff"
+                                        },
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#86a40bff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ebad10ff"
+                                        },
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "col": "#de3000ff"
+                    },
+                    "subTriC": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#de3000ff"
+                    },
+                    "col": "#86a40bff"
+                },
+                "subTriC": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#86a40bff"
+                },
+                "col": "#107065ff"
+            },
+            "col": "#f2a624ff"
+        }
+    },
+    {
+        "name": "basic static",
+        "displayType": "static",
+        "triDict": {
+            "subTriA": null,
+            "subTriB": null,
+            "subTriC": null,
+            "col": "#f2a624ff"
+        }
+    },
+    {
+        "name": "erererere",
+        "displayType": "static",
+        "triDict": {
+            "subTriA": {
+                "subTriA": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#2454f2ff"
+                },
+                "subTriB": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriB": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriC": {
+                        "subTriA": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#7620c6ff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#2454f2ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#ff0bf7ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#7620c6ff"
+                                        },
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#2454f2ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#2454f2ff"
+                            },
+                            "col": "#7620c6ff"
+                        },
+                        "subTriC": {
+                            "subTriA": null,
+                            "subTriB": null,
+                            "subTriC": null,
+                            "col": "#7620c6ff"
+                        },
+                        "col": "#ff0bf7ff"
+                    },
+                    "col": "#2454f2ff"
+                },
+                "subTriC": {
+                    "subTriA": null,
+                    "subTriB": null,
+                    "subTriC": null,
+                    "col": "#2454f2ff"
+                },
+                "col": "#107065ff"
+            },
+            "subTriB": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "subTriC": {
+                "subTriA": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriB": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriC": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#ff0bf7ff"
+                    },
+                    "col": "#86a40bff"
+                },
+                "subTriB": {
+                    "subTriA": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#2454f2ff"
+                    },
+                    "subTriB": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#2454f2ff"
+                    },
+                    "subTriC": {
+                        "subTriA": null,
+                        "subTriB": null,
+                        "subTriC": null,
+                        "col": "#2454f2ff"
+                    },
+                    "col": "#86a40bff"
+                },
+                "subTriC": {
+                    "subTriA": {
+                        "subTriA": {
+                            "subTriA": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#de3000ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#de3000ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#7620c6ff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriB": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#ff0bf7ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "subTriC": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#7620c6ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#7620c6ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#ff0bf7ff"
+                            },
+                            "col": "#2454f2ff"
+                        },
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriB": {
+                        "subTriA": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "subTriB": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#de3000ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#ebad10ff"
+                                },
+                                "col": "#de3000ff"
+                            },
+                            "col": "#7620c6ff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ff0bf7ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "col": "#7620c6ff"
+                        },
+                        "subTriC": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#de3000ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "col": "#7620c6ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#86a40bff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriB": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "subTriC": {
+                                            "subTriA": null,
+                                            "subTriB": null,
+                                            "subTriC": null,
+                                            "col": "#2454f2ff"
+                                        },
+                                        "col": "#86a40bff"
+                                    },
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#7620c6ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#ebad10ff"
+                                    },
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#7620c6ff"
+                            },
+                            "col": "#7620c6ff"
+                        },
+                        "col": "#ff0bf7ff"
+                    },
+                    "subTriC": {
+                        "subTriA": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ebad10ff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#86a40bff"
+                                },
+                                "col": "#ebad10ff"
+                            },
+                            "col": "#86a40bff"
+                        },
+                        "subTriB": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriB": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "subTriC": {
+                                        "subTriA": null,
+                                        "subTriB": null,
+                                        "subTriC": null,
+                                        "col": "#2454f2ff"
+                                    },
+                                    "col": "#de3000ff"
+                                },
+                                "col": "#86a40bff"
+                            },
+                            "subTriB": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#2454f2ff"
+                                },
+                                "col": "#86a40bff"
+                            },
+                            "subTriC": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#ff0bf7ff"
+                                },
+                                "col": "#86a40bff"
+                            },
+                            "col": "#86a40bff"
+                        },
+                        "subTriC": {
+                            "subTriA": {
+                                "subTriA": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriB": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "subTriC": {
+                                    "subTriA": null,
+                                    "subTriB": null,
+                                    "subTriC": null,
+                                    "col": "#de3000ff"
+                                },
+                                "col": "#7620c6ff"
+                            },
+                            "subTriB": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#7620c6ff"
+                            },
+                            "subTriC": {
+                                "subTriA": null,
+                                "subTriB": null,
+                                "subTriC": null,
+                                "col": "#7620c6ff"
+                            },
+                            "col": "#86a40bff"
+                        },
+                        "col": "#ff0bf7ff"
+                    },
+                    "col": "#86a40bff"
+                },
+                "col": "#107065ff"
+            },
+            "col": "#f2a624ff"
+        }
+    },
+    {
+        "name": "green machine",
+        "displayType": "",
+        "triDict": {
+            "subTriA": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "subTriB": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "subTriC": {
+                "subTriA": null,
+                "subTriB": null,
+                "subTriC": null,
+                "col": "#107065ff"
+            },
+            "col": "#f2a624ff"
+        }
+    }
+]
